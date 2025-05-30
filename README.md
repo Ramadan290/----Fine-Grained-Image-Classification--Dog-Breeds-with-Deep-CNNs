@@ -45,6 +45,8 @@ This paradox is rooted in:
 
 ---
 
+READ the documentation attached on the repository for more information
+
 ## 🚀 How to Run
 
 This project was developed in Google Colab with TensorFlow and Keras.
